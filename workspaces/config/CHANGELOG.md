@@ -1,5 +1,12 @@
 # Changelog
 
+## [6.1.6](https://github.com/npm/cli/compare/config-v6.1.5...config-v6.1.6) (2023-04-12)
+
+### Bug Fixes
+
+* [`c7fe1c7`](https://github.com/npm/cli/commit/c7fe1c70eef49fa666f9f25ec941afa8b6acbf05) [#6328](https://github.com/npm/cli/pull/6328) save raw data to file, not parsed data (@wraithgar)
+* [`667cff5`](https://github.com/npm/cli/commit/667cff5e29f9be5666d701692ac238dc38194192) [#6328](https://github.com/npm/cli/pull/6328) move to private attributes where possible (@wraithgar)
+
 ## [6.1.5](https://github.com/npm/cli/compare/config-v6.1.4...config-v6.1.5) (2023-03-30)
 
 ### Bug Fixes

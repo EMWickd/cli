@@ -1,5 +1,15 @@
 # Changelog
 
+## [9.6.5](https://github.com/npm/cli/compare/v9.6.4...v9.6.5) (2023-04-12)
+
+### Bug Fixes
+
+* [`c7fe1c7`](https://github.com/npm/cli/commit/c7fe1c70eef49fa666f9f25ec941afa8b6acbf05) [#6328](https://github.com/npm/cli/pull/6328) save raw data to file, not parsed data (@wraithgar)
+
+### Dependencies
+
+* [Workspace](https://github.com/npm/cli/releases/tag/config-v6.1.6): `@npmcli/config@6.1.6`
+
 ## [9.6.4](https://github.com/npm/cli/compare/v9.6.3...v9.6.4) (2023-04-05)
 
 ### Documentation
